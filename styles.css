@@ -1,10 +1,19 @@
 body {
-    background-color: black;
+    margin: 8px;
+    display: block;
+    background-color: gray;
+}
+
+#mainHeading {
+    color: red;
 }
 header {
     color: gray;
     text-align: center;
     font-size: xx-large;
+}
+.funParagraph {
+    color: green;
 }
 
 *{
@@ -23,7 +32,7 @@ div {
 }
 
 h2 {
-    color:gray;
+    color: red;
     text-indent: center; 
     text-align: center;
     text-size: medium;*
@@ -46,7 +55,7 @@ p.blocktext {
 footer {
     text-indent: center;
     text-align: center;
-    color: gray;
+    color: red;
     font-size: xx-large;
 
 }
