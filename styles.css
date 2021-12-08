@@ -27,7 +27,7 @@ div {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 80px;
-    margin-left; 80px;
+    margin-left: 80px;
     background-color: white;
 }
 
@@ -35,7 +35,7 @@ h2 {
     color: red;
     text-indent: center; 
     text-align: center;
-    text-size: medium;*
+    font-size: medium;
     
 }
 
