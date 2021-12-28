@@ -19,8 +19,9 @@ header {
 }
 
 *{
-    margin: 0;
+    margin: 8px;
     padding: 0;
+    color: green;
 
 }
 
