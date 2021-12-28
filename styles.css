@@ -4,7 +4,7 @@ body {
     display: block;
     }
 
-.mainHeading {
+p.mainHeading {
     color: red;
     font-size: xx-large;
     text-align: center;
