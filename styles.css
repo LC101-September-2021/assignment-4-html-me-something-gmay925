@@ -8,7 +8,7 @@ body {
     color: red;
 }
 header {
-    color: gray;
+    color: red;
     text-align: center;
     font-size: xx-large;
 }
@@ -39,7 +39,7 @@ h2 {
     
 }
 
-p{ 
+p { 
     font-size:large;
     color: gray;
     
