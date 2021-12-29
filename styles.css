@@ -1,1 +1,61 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+header {
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
+.funParagraph {
+    color: green;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+div {
+    border: 2px black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: white;
+}
+
+h2 {
+    color: red;
+    text-indent: center; 
+    text-align: center;
+    font-size: medium;
+    
+}
+
+p { 
+    font-size:large;
+    color: gray;
+    
+    text-indent: 50px;
+
+}
+p.blocktext {
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+footer {
+    text-indent: center;
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+
+}
