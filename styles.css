@@ -5,12 +5,12 @@ body {
     }
 
 p.mainHeading {
-    color: red;
+    color: #DC143C;
     font-size: xx-large;
     text-align: center;
 }
 header {
-    color: red;
+    color: #DC143C;
     text-align: center;
     font-size: xx-large;
 }
@@ -35,7 +35,7 @@ div {
 }
 
 h2 {
-    color: red;
+    color: #DC143C;
     text-indent: center; 
     text-align: center;
     font-size: medium;
@@ -58,7 +58,7 @@ p.blocktext {
 footer {
     text-indent: center;
     text-align: center;
-    color: red;
+    color: #DC143C;
     font-size: xx-large;
 
 }
