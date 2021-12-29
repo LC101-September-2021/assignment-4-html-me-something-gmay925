@@ -4,7 +4,7 @@ body {
     display: block;
     }
 
-p.mainHeading {
+#mainHeading {
     color: #DC143C;
     font-size: xx-large;
     text-align: center;
